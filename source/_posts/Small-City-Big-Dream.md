@@ -2,6 +2,7 @@ title: 'Small City, Big Dream'
 date: 2018-09-25 23:35:29
 tags:
   - thoughts
+  - trip
 ---
 
 ![](/img/mel/MEL_01.JPG)
